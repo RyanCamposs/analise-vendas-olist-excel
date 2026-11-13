@@ -1,0 +1,11 @@
+# dados brutos do Kaggle (baixar pelo link do README)
+*.csv
+dados/
+
+# temporários do Excel
+~$*
+*.tmp
+
+# versões antigas da planilha
+Pasta2.xlsx
+planilha_principal_dashboard*.xlsx
